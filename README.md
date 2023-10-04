@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=for-the-badge&logo=AWS RDS&logoColor=white">
 <img src="https://img.shields.io/badge/Github ACTIONS-2088FF?style=for-the-badge&logo=AWS ACTIONS&logoColor=white"><img src="https://img.shields.io/badge/AWSEC2-FF9900?style=for-the-badge&logo=Amazon&logoColor=white"> <br />
 
-<h2> 📮 FOLLOW  </h2>
+<!-- <h2> 📮 FOLLOW  </h2>
 <a href="https://pink-love-princess.tistory.com/">
     <img 
         src="http://img.shields.io/badge/-junyoung's%20Blog-655ced?style=flat&logo=github&link=https://https://java-develooooop.tistory.com/)/"
@@ -26,4 +26,4 @@
     <img 
         src="https://img.shields.io/badge/yyijs0309@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yyijs0309@gmail.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+</a> -->
